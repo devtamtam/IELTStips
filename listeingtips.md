@@ -1,4 +1,3 @@
-```markdown
 # IELTS Listening Tips
 
 ## Exam Structure
@@ -63,4 +62,3 @@
 - Write answers directly on the answer sheet
 - Check spelling and grammar
 - Use the transfer time wisely to review answers
-```
