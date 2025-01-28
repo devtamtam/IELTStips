@@ -167,8 +167,6 @@
   *Solar energy has advantages over fossil fuels in that it is renewable.*  
 - A is advantageous to B in that ...  
   *This method is advantageous to the company in that it reduces costs.*
-- While A is undoubtfly valuable, it might limits C.
-  *While a focused approach to one’s chosen field is undoubtedly valuable, it can limit the scope of a student’s knowledge and potentially **diminish** adaptability.*
 
 ---
 
@@ -184,10 +182,7 @@
 
 ## Conclusion  
 - ~ indicates that SV.  
-  *This finding indicates that there is room for improvement in the process.*
-
-
-  
+  *This finding indicates that there is room for improvement in the process.*  
 - It seems natural to conclude that SV.  
   *It seems natural to conclude that education plays a key role in economic development.*  
 - There is no doubt that SV.  
