@@ -105,3 +105,4 @@ Identify and describe 3-4 significant features:
 - Avoid personal anecdotes unless specifically relevant
 - Use clear transitions between ideas
 - Proofread for consistency and accuracy
+- 
