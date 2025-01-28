@@ -100,9 +100,22 @@ Identify and describe 3-4 significant features:
    - Minimal errors
 
 ### Writing Tips
+
+- Make sure you plan before you begin writing.
+- The examiners judge your writing on its clarity. Make sure you have supported your ideas with specific details.
+- You can write more than 150 words for Task 1 or more than 250 words for Task 2, but you can't write less. You will lose your points if you have less than assigned number of words in your essay. 
+- Paraphrase the question in your introduction.
+- Learn and use the words and phrases used to link sentences and paragraphs.
+- In Task 2, add personal experiences and details whenever possible.
+- Understand the question before you begin to answer. You must answer the question completely. Make sure you address all parts of the task.
+- Indent each paragraph or leave spaces between paragraph. Make sure it is clear where each paragraph begins and ends.
+- Write clearly and legibly.
+- Cross out changes neatly or erase thoroughly. 
+- Check and correct grammar mistakes.
+- Read as much and as often as you can so that you become more familiar with the way writing is organized.
+
 - Demonstrate sophisticated language skills
 - Maintain formal academic tone
 - Avoid personal anecdotes unless specifically relevant
 - Use clear transitions between ideas
 - Proofread for consistency and accuracy
-- 
