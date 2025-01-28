@@ -168,6 +168,7 @@
 - A is advantageous to B in that ...  
   *This method is advantageous to the company in that it reduces costs.*
 - While A is undoubtfly valuable, it might limits C.
+  *While a focused approach to one’s chosen field is undoubtedly valuable, it can limit the scope of a student’s knowledge and potentially **diminish** adaptability.*
 
 ---
 
