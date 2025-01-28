@@ -17,7 +17,7 @@ You will analyze visual data (graphs, tables, charts, or diagrams) and write a f
 - Example: "The graph illustrates changes in global temperature over two decades" instead of "The graph shows temperature changes over 20 years"
 
 #### 2. Body Paragraphs
-Identify and describe 3-4 significant features:
+Identify and describe 3-4 significant features: Each body paragraph necessitates a topic sentence to clarify what the paragraph is about.
 
 **Trend Description Vocabulary:**
 - Upward trends: increased sharply, rose significantly, climbed steadily
@@ -67,6 +67,8 @@ Identify and describe 3-4 significant features:
    - Outline your approach
 
 2. **Body Paragraphs**
+   - Add *3-4* bodies
+   - Each body paragraph necessitates a topic sentence to clarify what the paragraph is about.
    - Clear topic sentences
    - Supporting evidence
    - Logical transitions
